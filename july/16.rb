@@ -22,4 +22,5 @@ def parrot(taiking, hour)
     end
 end
 
+
 parrot("aaa", rand(24))
