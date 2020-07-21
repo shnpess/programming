@@ -14,6 +14,7 @@ end
 type = type.uniq
 
 
+
 answer = []
 count = 0
 type.length.times do
